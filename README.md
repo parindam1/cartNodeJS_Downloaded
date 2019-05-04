@@ -1,4 +1,7 @@
 ## Nodejs Ecommerce Store
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/mrmodise/nodejs-ecommerce-store.svg)](https://greenkeeper.io/)
+
 An amazon clone ecommerce store built in NodeJS utilizing Express, Stripe Payment, MongoDB, Elastic Search, Faker API just to mention a few. Developed with the latest cutting edge industry standard technologies, eTswana stores allows a shopper to browse through the online store and buy products using a credit card. eTswana stores supports social sign up and sign in using Facebook.
 
 ### Live Demo
